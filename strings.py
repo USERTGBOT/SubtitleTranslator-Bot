@@ -3,7 +3,7 @@ from creds import cred
 
 welcome = "`Give me the subtitle file you want to translate..`"
 about = (
-    "`Bot      :` [subtransbot](t.me/MR_Subtitle_Transiloter_BOT)\n`Creator  :` [M-STER](t.me/M_STER_YT)\n`CHANNEL :` ["
+    "`Bot      :` [subtransbot](t.me/MR_Subtitle_Transiloter_BOT)\n`Creator  :` [M-STER](t.me/M_STER_YT)\n`CHANNEL  :` ["
     "JOIN](t.me/M_STER_TECH)\n`GROUP    :` [JOIN](t.me/M_STER_TECH_GROUP) \n`YOUTUBE  :` [SUBSCRIBE](https://youtube.com/channel/UC4Eorw1OaILIuLgdIBdNE0w)"
 )
 help_text = (
@@ -16,8 +16,8 @@ eta_text = (
     "**File name :** `{}`\n**Done** `{}` **of** `{}`\n**Percentage:** {}%\n**Speed:** {} lines/sec\n**ETA:** {}\n[{"
     "}{}] "
 )
-caption = f"Translated by {cred.BOT_NAME}"
-empty = "`You need to send a subtitle(srt) file inorder to translate it`"
+caption = f"Translated by {cred.BOT_NAME}\n\n SUPPORT @M_STER_TECH"
+empty = "`You need to send a subtitle(srt) file inorder to translate it`If in doubt, ask @M_STER_TECH"
 mmtypes = [
     "text/plain",
     "application/x-subrip",
