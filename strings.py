@@ -3,8 +3,8 @@ from creds import cred
 
 welcome = "`Give me the subtitle file you want to translate..`"
 about = (
-    "`Bot`            : [subtransbot](t.me/@MR_Subtitle_Transiloter_BOT)\n`Creator :` [M-STER](t.me/M_STER_YT)\n`CHANNEL:` ["
-    "JOIN](t.me/M_STER_TECH)\n`GROUP :` [JOIN](t.me/M_STER_TECH_GROUP) \n`YOUTUBE  :` [SUBSCRIBE](https://youtube.com/channel/UC4Eorw1OaILIuLgdIBdNE0w)"
+    "`Bot             :` [subtransbot](t.me/MR_Subtitle_Transiloter_BOT)\n`Creator      :` [M-STER](t.me/M_STER_YT)\n`CHANNEL :` ["
+    "JOIN](t.me/M_STER_TECH)\n`GROUP       :` [JOIN](t.me/M_STER_TECH_GROUP) \n`YOUTUBE :` [SUBSCRIBE](https://youtube.com/channel/UC4Eorw1OaILIuLgdIBdNE0w)"
 )
 help_text = (
     "**Steps to follow**\n\n`This is a subtitle translator bot`\n**1.** `Send me the subtitle file inorder to "
