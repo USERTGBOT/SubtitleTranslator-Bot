@@ -17,7 +17,7 @@ eta_text = (
     "}{}] "
 )
 caption = f"Translated by {cred.BOT_NAME}\n\n SUPPORT @M_STER_TECH"
-empty = "`You need to send a subtitle(srt) file inorder to translate it`If in doubt, ask @M_STER_TECH"
+empty = "`You need to send a subtitle(srt) file inorder to translate it`  If in doubt, ask @M_STER_TECH"
 mmtypes = [
     "text/plain",
     "application/x-subrip",
